@@ -1,0 +1,82 @@
+h1{
+	font-family: Montserrat;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 30px;
+}
+hr{
+	border: 2px solid black;
+	width: 70%;
+}
+
+p{
+	font-family: montserrat;
+	
+}
+
+header{
+	background-color: black;
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+	font-family: montserrat;
+}
+
+li a:hover {
+	color: yellow;
+	text-decoration: none;
+	font-family: montserrat;
+}
+
+footer{
+	background-color: black;
+	color: antiquewhite;
+	padding: 5px;
+	text-align: center;
+}
+
+.introduction{
+	font-size: 20px;
+	color: black;
+	background: yellow;
+	font-family: serif;
+}
+
+.Automation{
+	color: black;
+	background: red;
+	font-family: serif;
+}
+
+.Enhanced{
+	background: green;
+	color: black;
+	font-family: serif;
+}
+
+.DataDriven{
+	background: purple;
+	color: black;
+	font-family: serif;
+}
+
+section{
+	background: orange;
+}
+
+img {
+  border-radius: 50%;
+}
